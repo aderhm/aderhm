@@ -14,7 +14,7 @@
 <br />
 
 <p>
-  Hi there! 👋 I'm <i>Abderrahim Lhyani</i>, also known as <i>Arl<i>, a computer science teacher passionate about :
+  Hi there! 👋 I'm <i>Abderrahim Lhyani</i>, a computer science teacher passionate about :
     <ul>
       <li>Software Engineering | Back-End.</li>
       <li>Building creative solutions.</li>
