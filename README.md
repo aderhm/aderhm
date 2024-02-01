@@ -26,7 +26,7 @@
   I have the privilege of teaching middle school students how to code. It's an amazing experience to see them learn and grow in their understanding of computer science. I believe in empowering the next generation with valuable programming skills.
 </p>
 
-## I'm currently working with Linux, Shell Scripting, VCS, C, and Python.
+## I'm currently working with Linux, Shell Scripting, VCS, C, JavaScript and Python.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aderhm&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br />
